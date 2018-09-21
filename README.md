@@ -1,6 +1,9 @@
-# Create Ethereum ERC20 Token 
+# SGT - Ethereum ERC20 Token 
 
-## Tech Stack
+## Tech Stack / Tools
 - Solidity
 - Truffle
 - Ganache
+- Open Zeppelin
+- Mocha
+- Chai
